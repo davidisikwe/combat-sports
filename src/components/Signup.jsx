@@ -86,17 +86,17 @@ const Signup = () => {
             />
           </div>
           <button className='border-[.0625rem] h-10 bg-[#18181B] text-white px-[1rem] py-[.5rem] rounded-[.5rem] text-sm font-medium'>
-            Login
+            Create an account
           </button>
           <button className='border-[.0625rem] h-10 bg-white text-[#09090B] px-[1rem] py-[.5rem] rounded-[.5rem] text-sm font-medium'>
-            Login With Google
+            Sign up With Google
           </button>
         </div>
 
         <p className='text-center text-sm mt-4'>
-          Don't have an account?{' '}
+          Already have an account?{' '}
           <a href='#' className='underline'>
-            Sign up
+            Sign in
           </a>
         </p>
       </div>
